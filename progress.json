@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:05:10.642Z",
+  "generated_at": "2026-10-01T20:37:20.481Z",
   "items": {
     "problem:60": {
       "kind": "problem",
@@ -169,6 +169,19 @@
       "last_pushed_at": "2026-10-01T20:05:09.913Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:371": {
+      "kind": "problem",
+      "id": "371",
+      "title": "Calculate Number of Parameters in Neural Network",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/371",
+      "path": "problems/0371-calculate-number-of-parameters-in-neural-network",
+      "first_solved_at": "2026-10-01T20:37:19.716Z",
+      "last_pushed_at": "2026-10-01T20:37:19.716Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
