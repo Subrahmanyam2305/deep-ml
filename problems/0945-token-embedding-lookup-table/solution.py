@@ -8,8 +8,10 @@ def token_embedding_lookup(vocab_size: int, embed_dim: int, token_ids: list, see
     """
     rng = np.random.default_rng(seed)
     embed_matrix = rng.standard_normal(size = (vocab_size, embed_dim))
-    res = []
-    for token in token_ids:
-        res.append(embed_matrix[token])
-    return res
+    # res = []
+    # for token in token_ids:
+    #     res.append(embed_matrix[token])
+    # return res
+    # efficient way
+    return embed_matrix[token_ids].tolist()
 
