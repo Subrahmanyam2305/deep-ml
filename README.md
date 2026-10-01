@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-03-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2025-03-23 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2025-03-25 | [solution](problems/0051-optimal-string-alignment-distance) |
+| [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-10-01 | [solution](problems/0378-temperature-sampling) |
 
 ---
 
