@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:53:19.424Z",
+  "generated_at": "2026-10-01T20:59:15.210Z",
   "items": {
     "problem:60": {
       "kind": "problem",
@@ -192,9 +192,9 @@
       "url": "https://www.deep-ml.com/problems/378",
       "path": "problems/0378-temperature-sampling",
       "first_solved_at": "2026-10-01T20:53:18.856Z",
-      "last_pushed_at": "2026-10-01T20:53:18.856Z",
+      "last_pushed_at": "2026-10-01T20:59:14.304Z",
       "language": "python",
-      "lines": 23
+      "lines": 24
     }
   }
 }
